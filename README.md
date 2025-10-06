@@ -22,12 +22,13 @@
 **Frontend:**  
 - React.js ⚛️  
 - HTML5, CSS3, JavaScript (ES6+)  
-- Bootstrap & Tailwind CSS  
+- Bootstrap 
 
 **Backend:**  
 - Node.js, Express.js  
 - REST APIs & CRUD operations  
-- MongoDB & Mongoose  
+- MongoDB & Mongoose
+- Mysql
 
 **Tools & Platforms:**  
 - Git & GitHub  
