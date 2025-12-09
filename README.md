@@ -53,7 +53,8 @@ Built a complete full-stack e-commerce platform for product catalog, cart, and c
 
 ##  Connect With 
 
-[![Email](https://img.shields.io/badge/Email-saranyacse284@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranyacse284@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-saranyacse284@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:saranyacse284@gmail.com)
+
 
 ---
 
