@@ -3,12 +3,12 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 I am a MERN Stack Developer passionate about building modern, responsive, and scalable web applications using React, Node.js, Express, and MongoDB. I enjoy learning new technologies, solving challenges, and crafting user-friendly interfaces.
 
 ---
 
-## 🛠️ Frontend
+##  Frontend
 
 | React.js | JavaScript | HTML5 | CSS3 | Bootstrap |
 |----------|------------|-------|------|-----------|
@@ -16,7 +16,7 @@ I am a MERN Stack Developer passionate about building modern, responsive, and sc
 
 ---
 
-## 🛠️ Backend
+##  Backend
 
 | Node.js | Express | MongoDB | MySQL | REST API |
 |--------|---------|---------|--------|----------|
@@ -24,11 +24,11 @@ I am a MERN Stack Developer passionate about building modern, responsive, and sc
 
 ---
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 
-| Git | GitHub | VS Code | Postman | Heroku |
-|-----|--------|---------|---------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40"/> |
+| Git | GitHub | VS Code | Postman | 
+|-----|--------|---------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> | 
 
 ---
 
@@ -51,10 +51,9 @@ Built a complete full-stack e-commerce platform for product catalog, cart, and c
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With 
 
 [![Email](https://img.shields.io/badge/Email-saranyacse284@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranyacse284@gmail.com)
 
 ---
 
-✨ **Fun Fact:** I love transforming ideas into functional digital solutions using MERN technologies!
